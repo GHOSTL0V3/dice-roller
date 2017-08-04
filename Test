@@ -1,0 +1,3 @@
+name = raw_input("What is your name? ")
+
+print "Ah, so your name is %s!" % (name)
